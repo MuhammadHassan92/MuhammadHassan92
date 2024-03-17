@@ -10,14 +10,14 @@
 🔍 Specializing in:
 - Natural Language Processing (NLP)
 - Time Series Forecasting
-- Deep learning applications
-- Backend development with FastAPI
+- Deep Learning Applications
+- Backend Development with FastAPI
 
 🛠️ Proficient in ML algorithms and Transformer-based models.  
 
-📚 Data Science batch 2020 from FAST NUCES Lahore.  
+📚 Data Science Batch 2020 from FAST NUCES Lahore.  
 
-💼 Former intern at Dehqaan AI, focusing on advanced feature engineering and forecasting techniques.  
+💼 Former Data Science Intern at Dehqaan AI, focusing on advanced feature engineering and forecasting techniques.  
 
 💡 Currently working on my final year project, leveraging Large Language Models (LLMs) for intelligent text analysis. 
 
