@@ -1,16 +1,24 @@
-### Hi there 👋
+# Muhammad Hassan
 
-<!--
-**MuhammadHassan92/MuhammadHassan92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Data Scientist | Backend Developer | NLP Enthusiast  
+📍 Lahore, Pakistan  
+📧 hmuhammad78692@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/muhammad-hassan-aa9aba219)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Specializing in:
+- Natural Language Processing (NLP)
+- Time Series Forecasting
+- Deep learning applications
+- Backend development with FastAPI
+
+🛠️ Proficient in ML algorithms and Transformer-based models.  
+
+📚 Data Science batch 2020 from FAST NUCES Lahore.  
+
+💼 Former intern at Dehqaan AI, focusing on advanced feature engineering and forecasting techniques.  
+
+💡 Currently working on my final year project, leveraging Large Language Models (LLMs) for intelligent text analysis. 
+
+🔗 Explore my projects to see how I'm transforming data-driven initiatives into impactful solutions.
